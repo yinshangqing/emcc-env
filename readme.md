@@ -30,7 +30,12 @@
 
 ​	**注意 ： *node ~/emsdk/node/8.9.1_64bit/lib/node_modules/http-server/bin/http-server* 中可能与我的不一样需要稍微修改下**
 
+​	打开浏览器输入：
+
+​		**hello**： *http://127.0.0.1:8080/hello.html*
+
+​		**test**：*http://127.0.0.1:8080/test.html*
+
 #### 附录：
 
-***个人博客：https://blog.csdn.net/qq_18286031***
-
+​	***个人博客：https://blog.csdn.net/qq_18286031***
