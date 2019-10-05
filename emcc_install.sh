@@ -6,6 +6,8 @@
 #########################################################################
 #!/bin/bash
 
+# set http_proxy=127.0.0.1:1080
+# set https_proxy=127.0.0.1:1080
 git clone https://github.com/emscripten-core/emsdk.git
 cd emsdk/
 git pull
