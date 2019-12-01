@@ -8,7 +8,7 @@
 
 # set http_proxy=127.0.0.1:1080
 # set https_proxy=127.0.0.1:1080
-git clone https://github.com/emscripten-core/emsdk.git
+git clone https://github.com/juj/emsdk.git
 cd emsdk/
 git pull
 ./emsdk install latest
